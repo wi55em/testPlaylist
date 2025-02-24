@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RDS.(Réseau.des.sports).ca" group-title="Canada",CA | CA (FR)| RDS
-http://206.212.244.26/live/vasconeves/1742766045/40629.ts
-#EXTINF:-1 tvg-id="" group-title="Canada",CA | CA (FR) | RDS 2 
-http://206.212.244.26/live/vasconeves/1742766045/40628.ts
-#EXTINF:-1 tvg-id="RDS.Info.ca" group-title="Canada",CA | CA (FR) | RDS INFO 
-http://206.212.244.26/live/vasconeves/1742766045/40627.ts
-#EXTINF:-1 tvg-id="TVA.Sports.ca" group-title="Canada",CA | CA (FR) | TVA Sport 
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228777.ts
-#EXTINF:-1 tvg-id="TVA.Sports.2.ca" group-title="Canada",CA | CA (FR) | TVA Sport 2
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228778.ts
+#EXTINF:-1 group-title="Canada" tvg-id="rds.rseau.des.sports.ca" tvg-logo="https://media.starlite.best/rds.rseau.des.sports.ca.png",RDS
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/280913.ts
+#EXTINF:-1 group-title="Canada" tvg-id="rds.2.ca" tvg-logo="https://media.starlite.best/rds.2.ca.png",RDS 2
+https://tvnow.best/api/stream/burns/burns/livetv.epg/rds.2.ca.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="rds.info.ca" tvg-logo="https://media.starlite.best/rds.info.ca.png",RDS Info
+https://tvnow.best/api/stream/burns/burns/livetv.epg/rds.info.ca.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sport
+https://tvnow.best/api/stream/burns/burns/livetv.epg/tva.sports.ca.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sport 2
+https://tvnow.best/api/stream/burns/burns/livetv.epg/tva.sports.2.ca.m3u8
