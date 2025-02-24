@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RDS.(Réseau.des.sports).ca" group-title="Canada",CA | CA (FR)| RDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/512px-RDS_logo.svg.png" 
+http://206.212.244.26/live/vasconeves/1742766045/40629.ts
+#EXTINF:-1 tvg-id="" group-title="Canada",CA | CA (FR) | RDS 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/512px-Reseau_Des_Sport_2.svg.png"
+http://206.212.244.26/live/vasconeves/1742766045/40628.ts
+#EXTINF:-1 tvg-id="RDS.Info.ca" group-title="Canada",CA | CA (FR) | RDS INFO tvg-logo="http://www.rdsinfo.ca/,https://i.imgur.com/VC3c3WY.png"
+http://206.212.244.26/live/vasconeves/1742766045/40627.ts
+#EXTINF:-1 tvg-id="TVA.Sports.ca" group-title="Canada",CA | CA (FR) | TVA Sport tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVASports.svg/512px-TVASports.svg.png"
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228777.ts
+#EXTINF:-1 tvg-id="TVA.Sports.2.ca" group-title="Canada",CA | CA (FR) | TVA Sport 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVASports.svg/512px-TVASports.svg.png"
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228778.ts
